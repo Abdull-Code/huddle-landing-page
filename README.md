@@ -26,7 +26,7 @@ This huddle landing page is one of many challenges from Frontend Mentor.
 |
 | Mobile | 
 
-![Mobile view](./images/bg-mobile.svg) 
+![Mobile view](./images/mobile-design.jpg) 
 
 |
 
