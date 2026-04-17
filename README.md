@@ -1,4 +1,4 @@
-# Blog Preview Card Challenge
+# huddle landing page Challenge
 
 This huddle landing page is one of many challenges from Frontend Mentor.
 
@@ -9,11 +9,9 @@ This huddle landing page is one of many challenges from Frontend Mentor.
 
 ## My Process
 
-* [Solution URL](https://github.com/Abdull-Code/huddle-landing-page)
 * Built with semantic HTML5 and CSS3
 * Used Flexboxfor layout (adjust based on what you used)
 * Mobile-first workflow
-*  used clamp font fluid instead of media queries
 
 ## Views
 
